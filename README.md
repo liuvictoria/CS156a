@@ -8,4 +8,4 @@ Sets are only posted after the solution key is handed out by Professor, as per c
 Perceptron learning algorithm & Hoeffding inequality
 
 # Problem Set 2
-Hoeffding inequality, linear regression, and linear transformations
+Hoeffding inequality, linear regression, and linear transformations. Not much code in this homework, mostly logic
